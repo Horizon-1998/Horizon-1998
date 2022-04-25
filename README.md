@@ -4,7 +4,7 @@
 
 - :orange_book: Focusing on C++ & Linux
 - :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
+- 🌱: learning ML and RL
 - :meat_on_bone: Meat lover
 
 
