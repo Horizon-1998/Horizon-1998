@@ -4,7 +4,7 @@
 
 - :orange_book: Focusing on C++ & Linux
 - :hammer: Creator of applications and frameworks
-- 🌱 learning ML and RL
+- 🌱 Learning ML and RL
 - :meat_on_bone: Meat lover
 
 
