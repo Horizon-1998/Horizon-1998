@@ -1,4 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Horizon-1998&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<p align="center"> 
+  Visitors<br><img src="https://profile-counter.glitch.me/Horizon-1998/count.svg" />
+</p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Horizon-1998&show_icons=true&theme=merko" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Horizon-1998&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 
 ### Hello,JingJing 👋
 
